@@ -15,7 +15,11 @@ public class gitday3 {
 		{
 			System.out.println("m3 method ");
 		}
-		
+		public void m4()
+		{
+			System.out.println("m4 methode");
+			
+		}
 		
 }
 	
